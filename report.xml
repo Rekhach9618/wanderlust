@@ -1,0 +1,9 @@
+<settings>
+  <dataSources>
+    <dataSource>
+      <id>nvd</id>
+      <url>https://services.nvd.nist.gov/rest/json/cve/1.1</url>
+      <apiKey>9545e8dc-1386-4b49-8d6d-a389d87019e6</apiKey>
+    </dataSource>
+  </dataSources>
+</settings>
